@@ -564,6 +564,8 @@ body {
     text-align: center;
     border: 1px solid #e5e5e5;
     transition: 200ms;
+    
+    cursor: pointer;
 }
 .content .popular-item:nth-child(4n) {
     margin-right: 0;
