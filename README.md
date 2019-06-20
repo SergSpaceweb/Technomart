@@ -1,2 +1,2 @@
 # Technomart
-Technomart https://sergspaceweb.github.io/Technomart/index.html
+https://sergey-shovkoplyas.github.io/Technomart/
